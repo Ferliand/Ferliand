@@ -1,5 +1,8 @@
 __pycache__/
 *.pyc
+*.py
 preview_header.png
+prev_portrait.png
+_prev.html
 assets/banner_*.txt
-gen_header.py
+portrait.txt
