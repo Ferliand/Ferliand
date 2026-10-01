@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/terminal.svg" alt="ferli@github terminal" width="97%">
+  <img src="assets/terminal.svg?v=3" alt="ferli@github terminal" width="97%">
 </div>
 
 <div align="center">
@@ -45,4 +45,6 @@ Halo! Saya **Ferli Andriansyah** — mahasiswa Teknik Informatika di Institut Te
 
 <div align="center">
   <sub>⚡ Terminal rendered from markdown + SVG · stats via github-readme-stats · badges via shields.io</sub>
+  <br>
+  <sub>SVG version: v3 — bump the <code>?v=</code> query whenever assets/terminal.svg changes to bypass caches</sub>
 </div>
