@@ -37,14 +37,14 @@ Halo! Saya **Ferli Andriansyah** — mahasiswa Teknik Informatika di Institut Te
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ferliand&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=35d1ff&icon_color=ff4fd8&text_color=e8eeff&ring_color=4b6bff&repo_color=0a0e27&username_color=e8eeff" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferliand&layout=compact&hide_border=true&bg_color=0a0e27&title_color=35d1ff&text_color=e8eeff&lang_count=6" alt="Top languages">
+  <img height="170" src="https://github-readme-stats-neon-delta-31.vercel.app/api?username=Ferliand&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0a0e27&title_color=35d1ff&icon_color=ff4fd8&text_color=e8eeff&ring_color=4b6bff&repo_color=0a0e27&username_color=e8eeff" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats-neon-delta-31.vercel.app/api/top-langs/?username=Ferliand&layout=compact&hide_border=true&bg_color=0a0e27&title_color=35d1ff&text_color=e8eeff&lang_count=6" alt="Top languages">
 </div>
 
 ---
 
 <div align="center">
-  <sub>⚡ Terminal rendered from markdown + SVG · stats via github-readme-stats · badges via shields.io</sub>
+  <sub>⚡ Terminal rendered from markdown + SVG · stats via self-hosted github-readme-stats (Vercel) · badges via shields.io</sub>
   <br>
   <sub>SVG version: v3 — bump the <code>?v=</code> query whenever assets/terminal.svg changes to bypass caches</sub>
 </div>
