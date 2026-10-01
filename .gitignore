@@ -4,5 +4,11 @@ __pycache__/
 preview_header.png
 prev_portrait.png
 _prev.html
+_anim_test.html
+_wipe_test.svg
+_cdp_*.mjs
+_cdp_profile/
+anim_*.png
+wipe_rt_*.png
 assets/banner_*.txt
 portrait.txt
